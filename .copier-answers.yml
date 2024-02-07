@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier
+_commit: v1.5.0-5-g6e0125b
+_src_path: ./python-project-template/
+author_email: name@you.com
+author_name: Your Name
+custom_install: false
+package_name: example_package
+project_license: MIT
+project_name: example_project
+project_organization: my-organization
